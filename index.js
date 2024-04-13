@@ -51,7 +51,7 @@ async function main() {
 
     function startDiscord() {
         console.clear();
-        console.log(clc.blue(figlet.textSync('HWSB')));
+        console.log(clc.blue(figlet.textSync('Hwcord')));
         console.log(clc.green("Welcome to HWSB!"));
         console.log(clc.white("Created by CasualDev"));
 
