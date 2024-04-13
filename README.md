@@ -9,6 +9,10 @@ A fast, open-source Discord client modification tool
 
 Hwcord passes vanilla JS files straight to the Discord client during startup, instead of being preloaded with a patched ASAR file
 
+#### How does this work?
+
+This works by starting up discord with a 'debug' mode allowing Hwcord to pass scripts through a WS to your Client.
+
 ## Features
 
 - Fast code injection
@@ -20,6 +24,7 @@ Hwcord passes vanilla JS files straight to the Discord client during startup, in
 
 - Injecting multiple files doesn't work well
 - You might get logged out of Discord if you reload too frequently
+- Only supports Discords normal client, PTB won't work or anything like that.
 
 ## Roadmap
 
