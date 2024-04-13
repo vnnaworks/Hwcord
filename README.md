@@ -16,6 +16,10 @@ Hwcord passes vanilla JS files straight to the Discord client during startup, in
 - Ability to reload the Discord client
 - Built in "menu" (open with INS) and loader
 
+## Issues
+
+- Injecting multiple files doesn't work well
+- You might get logged out of Discord if you reload too frequently
 
 ## Roadmap
 
