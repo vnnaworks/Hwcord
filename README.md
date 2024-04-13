@@ -27,7 +27,7 @@ Hwcord passes vanilla JS files straight to the Discord client during startup, in
 
 
 ## Usage/Examples
-You can download a pre-compiled version of Hwcord and get to scripting your own features, or use it straight from the Node JS binary by downloading source and using 'npm start'
+You can download a pre-compiled version of Hwcord and get to scripting your own features, or use it straight from the Node JS binary by downloading source and using 'npm install' + 'npm start'
 
 
 ## Contributing
